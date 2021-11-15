@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, Soy Masao Nakada'
-    content: "Creador digitalDog lover ❤️\U0001F415\U0001F416 - Vida Forestal\U0001F334\U0001F333 - Viaje - Trekking \U0001F3DE️\U0001F3DD️\n\n\n"
+    content: "Creador digital - Dog lover ❤️\U0001F415\U0001F416 - Vida Forestal\U0001F334\U0001F333 - Viaje - Trekking \U0001F3DE️\U0001F3DD️\n"
     actions: []
   - section_id: latest-projects
     type: section_portfolio
