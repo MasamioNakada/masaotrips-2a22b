@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, Soy Masao Nakada'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |+
+      Acompáñame a explorar lo desconocido.
+
     actions:
       - label: Let's talk
         url: /contact
