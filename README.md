@@ -1,4 +1,4 @@
-# ✨ Exto Nextjs Theme ✨
+# ✨ Masao Trips Blog ✨
 
 This is Stackbit's "Exto" theme built with [Next.js](https://nextjs.org/) and
 powered by content stored in files.
