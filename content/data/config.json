@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "MasamoTrips",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "MasaoTrips",
         "has_nav": true,
         "nav_links": [
             {
@@ -40,32 +40,32 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; MasaoTrips. All rights reserved. This  site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/MasaoTrips",
                 "style": "icon",
-                "icon": "twitter",
+                "icon": "facebook",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/masaotrips/",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/channel/UCV2UOoDT1mqtiiKY5cC4g-A",
                 "style": "icon",
-                "icon": "dribbble",
+                "icon": "youtube",
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
+                "label": "Linkendin",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
                 "icon": "linkedin",
