@@ -13,18 +13,8 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {
@@ -72,5 +62,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://masaotrips-2a22b.netlify.app"
 }
