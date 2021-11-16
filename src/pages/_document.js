@@ -34,20 +34,23 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
 
-                <script 
-                    async 
+                <script
+                    async
                     src="https://www.googletagmanager.com/gtag/js?id=G-JEF8C9L7E9">
                 </script>
 
-                <script dangerouslySetInnerHTML = {{
-                    __html:`window.dataLayer = window.dataLayer || [];
+                <script dangerouslySetInnerHTML={{
+                    __html: `window.dataLayer = window.dataLayer || [];
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
 
                     gtag('config', 'G-JEF8C9L7E9');`
-                }}/>
+                }} />
+                <meta 
+                    name="google-site-verification" 
+                    content="-P0nXypZzp695dfnBeG_ULeQB4cLVGLV_BBbzklmJUA" 
+                />
 
-              
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src={withPrefix('js/plugins.js')} />
